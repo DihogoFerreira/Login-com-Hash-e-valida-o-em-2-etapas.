@@ -5,9 +5,13 @@ A aplicação contém um cadastro de usuários para efetuar o login em uma deter
 **PHPMailer: é uma biblioteca popular para PHP que simplifica o envio de e-mails. Ele oferece uma interface fácil de usar e recursos avançados, como suporte a SMTP, anexos e HTML.Nesse caso usamos ela para fazer o envio do código de validação,o usuário cadastra o email, e no mesmo momento um código e enviado para o email cadastrado esse código quem é o responsável por libera o acesso ao programa.
 
 CONFIGURAÇÃO DO EMAIL:
+
 1º ACESSE SEU EMAIL, VÁ ATÉ SEU PERFIL DO GOOGLE (OU FOTO) NO CANTO DIREITO DA TELA E CLIQUE EM GERENCIAR SUA CONTA DO GOOGLE.
+
 2° CLIQUE EM SEGURANÇA.
+
 3° LIBERE PARA A VERIFICAÇÃO EM DUAS ETAPAS.
+
 4° VAI LIBERAR E GERAR UM CÓDIGO DE 16 DIGITOS, ESSE CÓDIGO VAI SER INSERIDO NA SUA LINHA DE N° 19 NO CÓDIGO.
 
 
